@@ -1,0 +1,15 @@
+
+table,tr,td,th{
+  border:2px solid black;
+  border-collapse: collapse;
+}
+
+.helloworld{
+  color: chartreuse;
+}
+.ravi{
+ background-image: linear-gradient(skyblue,white,gray,pink)
+}
+.ravi1{
+  background-color: chartreuse;
+}
